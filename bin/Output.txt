@@ -1,0 +1,78 @@
+PS C:\Users\Dharmik\Desktop\operators> dart run
+Sum of 10 and 20 is 30
+Sum of 30 and 40 is 70
+Multiplication of 10 and 20 is 200
+Multiplication of 30 and 40 is 1200
+Subtraction of 20 and 10 is 10
+Subtraction of 40 and 30 is 10
+Division of 20 by 10 is 2.0
+Division of 40 by 20 is 2.0
+Division of 20 by 10 and assign to int division is 2
+Division of 40 by 20 and assign to int division is 2
+Modulus of 10 and 20 is 10
+Modulus of 20 and 40 is 0
+Unary Minus of 20 is -20
+Unary Minus of 30 is -30
+Pre Increment of 21 is 21
+Pre Increment of 31 is 31
+Pre Decrement of 19 is 19
+Pre Decrement of 29 is 29
+Post Increment of 21 is 20
+Post Increment of 31 is 30
+Post Decrement of 19 is 20
+Post Decrement of 29 is 30
+20 is greater than 0 is false
+40 is greater than 20 is true
+20 is lesser than 30 is true
+40 is lesser than 20 is false
+20 is greater than or equal to 30 is false
+40 is greater than or equal to 40 is true
+30 is lesser than or equal to 30 is true
+40 is lesser than or equal to 20 is false
+30 is equal to 30 is true
+40 is equal to 20 is false
+30 is not equal to 30 is false
+40 is not equal to 20 is true
+Dharmik Midha is String: true
+7.16 is String: true
+Dharmik Midha is not String: false
+7.16 is not String: false
+Bitwise & between 10 and 20 is 0
+Bitwise & between 30 and 40 is 8
+Bitwise | between 10 or 20 is 30
+Bitwise | between 30 or 40 is 62
+Bitwise ^ between 10 xor 20 is 30
+Bitwise ^ between 30 xor 40 is 54
+10 << 20 is 10485760
+30 << 40 is 32985348833280
+10 >> 20 is 0
+30 >> 40 is 0
+Bitwise ~ on 10 is -11
+Bitwise ~ on 40 is -41
+num1 assigned 300  using Equal to
+num2 assigned to 200 using Equal to
+300 is not assigned to num1 as already have 300
+200 assigned to num1 as it is null
++= of 10 with 2 is 12
++= of 20 with 4 is 16
+-= of 16 with 2 is 14
+-= of 20 with 4 is 10
+*= of 10 with 2 is 20
+*= of 20 with 4 is 80
+/= of 80 with 2 is 40.0
+/= of 20 with 4 is 10.0
+Logical and between 10 and 100 is true
+Logical and between 30 and 100 is false
+Logical or between 10 or 100 is true
+Logical or between 30 or 100 is true
+Logical ! 10 not equal to 0 is true
+Logical ! 100 not equal to 100 is false
+Conditinal Operator true block 10
+Conditinal Operator true block 10
+value of num1 as Conditional is Null
+value of num1 as 10
+This is first
+This is second
+This is first
+This is second
+This is first
